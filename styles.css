@@ -47,9 +47,11 @@
         }
 
         .footer {
+			background-color:#eaeaea;
             font-family: Arial, sans-serif;
             font-size: 14px;
             color: gray;
             text-align: center;
             margin: 10px;
+			padding:0.5rem;
         }

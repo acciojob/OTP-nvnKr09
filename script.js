@@ -1,5 +1,6 @@
 //your JS code here. If required.
 let codes = document.querySelectorAll(".code");
+document.getElementById("code-1").focus();
 
         // Loop through each input element
         for (let i = 0; i < codes.length; i++) {
